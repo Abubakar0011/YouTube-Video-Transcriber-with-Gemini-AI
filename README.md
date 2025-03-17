@@ -12,7 +12,7 @@ This project is a **YouTube Video Transcriber** built using **Streamlit** and **
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/youtube-transcriber.git
+   git clone https://github.com/Abubakar0011/YouTube-Video-Transcriber-with-Gemini-AI.git
    cd youtube-transcriber
    ```
 2. Install required dependencies:
